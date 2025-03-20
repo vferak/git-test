@@ -3,3 +3,4 @@ Jak se máš?
 Dobře, co ty?
 Jo, mohlo by to být lepší
 Jakto
+Release v0.0.2
