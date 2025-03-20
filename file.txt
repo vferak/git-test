@@ -2,3 +2,4 @@ Ahoj světe
 Jak se máš?
 Dobře, co ty?
 Jo, mohlo by to být lepší
+Jakto
